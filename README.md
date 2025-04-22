@@ -50,6 +50,17 @@ Anyone exploring:
 
 ---
 
+**This code will**
+
+Ask for an audio file
+
+Show the MFCC heatmap
+
+Play audio synthesized from each of the 13 MFCCs individually
+
+Show an interpretation for each one
+
+---
 
 **📚 Related Blog Post**
 This repository contains supporting material for my blog post:
