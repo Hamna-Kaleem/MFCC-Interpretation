@@ -4,30 +4,6 @@ This repository demonstrates a complete walkthrough of **MFCC (Mel-Frequency Cep
 
 ---
 
-## 🔧 Features
-
-- Load & visualize waveforms
-- Display spectrogram and log-Mel spectrogram
-- Extract MFCCs with Delta and Delta-Delta
-- 🎯 **Pitch Tracking Overlay**
-- 📈 **MFCC-based Classifier** (Speaker Identification / Emotion Recognition)
-- 🌍 **Cross-language/Emotion MFCC Comparison**
-
----
-
-## 📁 Structure
-
-### 1. `mfcc_playground.ipynb`
-- Visualize waveform
-- Spectrograms
-- MFCC extraction & visualization
-- Delta and delta-delta computation
-- Pitch estimation and overlay
-- Emotion or speaker classification using MFCCs (basic model)
-- Compare MFCCs from different languages or emotional states
-
----
-
 ## 🧠 What is MFCC?
 MFCCs simulate the human auditory system’s perception of sound. They're derived from:
 
@@ -51,28 +27,11 @@ Where \( S_k \) is the log-energy from Mel filterbank \( k \)
 
 ---
 
-## 🎨 Visualizations
-
-- 📈 Waveform
-- 🔊 Spectrogram & Mel Spectrogram
-- 📉 MFCCs & Delta MFCCs
-- 🎯 Pitch Tracking over waveform/MFCCs
-- 🌈 Emotion or language-based MFCC visual comparison
-
----
-
 ## 🤖 ML Applications
 
 - 🔊 **Speaker Identification**: Who is speaking?
 - 😠 **Emotion Recognition**: What is the emotion conveyed?
 - 🌐 **Language Variation**: Compare English, Urdu, Portuguese, etc.
-
----
-
-## ▶️ Try it!
-Run the `mfcc_playground.ipynb` notebook in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_colab)
 
 ---
 
@@ -87,17 +46,9 @@ pip install librosa matplotlib numpy sklearn scipy
 Anyone exploring:
 - Audio signal processing
 - Speech-related ML tasks
-- Math-for-ML learners
+- Basic Audio Feature learners
 
 ---
-
-## 📌 To Do / Future Features
-- Add CNN classifier for spectrogram inputs
-- Integrate with Wav2Vec or Whisper for feature comparison
-- Export interactive plots via `plotly`
-
----
-
 
 
 **📚 Related Blog Post**
