@@ -60,6 +60,20 @@ Play audio synthesized from each of the 13 MFCCs individually
 
 Show an interpretation for each one
 
+    0: "Low freq. energy - pitch, loudness",
+    1: "General spectral slope",
+    2: "Changes in pitch",
+    3: "Energy variation",
+    4: "Middle freq. textures",
+    5: "Consonant shape hints",
+    6: "Voicing info",
+    7: "Noise / fricatives",
+    8: "Tonal purity",
+    9: "Roughness or grain",
+    10: "Energy fluctuation",
+    11: "High-freq dynamics",
+    12: "Noise floor variations"
+
 ---
 
 **📚 Related Blog Post**
