@@ -84,4 +84,4 @@ This repository contains supporting material for my blog post:
 Check out the full article on [Decoding Audio with MFCCs(https://dsp-01.hashnode.dev/decoding-audio-with-mfccs-a-visual-and-mathematical-journey)]
 
 In the blog, I explain what MFCCs are, how to interpret all 13 coefficients, and how to visualize them effectively.
-Due to space constraints, some additional comparisons (like emotional or multilingual audio) are only available here in this repo. Feel free to explore and try your own experiments!
+Due to space constraints, some additional comparisons like listening to these coefficients, are only available here in this repo. Feel free to explore and try your own experiments!
